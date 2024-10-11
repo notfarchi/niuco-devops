@@ -1,0 +1,28 @@
+# Ignorar diretórios do sistema
+.DS_Store
+.Trash/
+.bash_sessions/
+.gitconfig
+.gitignore
+.oh-my-zsh/
+.zcompdump*
+.zsh_history
+.zshrc
+.bash_history
+.npm/
+.cache/
+.local/
+.m2/
+.gradle/
+
+# Ignorar outros diretórios do sistema
+/Applications/
+/Library/
+/Movies/
+/Music/
+/Pictures/
+/Public/
+/Downloads/
+
+# Ignorar arquivos relacionados ao sistema do Mac
+.CFUserTextEncoding
